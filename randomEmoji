@@ -1,0 +1,4 @@
+import random
+
+emojis = ["😀", "😎", "🔥", "🌟", "🚀", "🍕", "🐍", "❤️"]
+print("Your random emoji is:", random.choice(emojis))
